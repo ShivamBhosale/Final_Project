@@ -1,5 +1,6 @@
 # Contents of ~/my_app/streamlit_app.py
 import streamlit as st
+import streamlit_authenticator as stauth
 
 def main():
     html_temp = """
